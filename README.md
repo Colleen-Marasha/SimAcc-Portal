@@ -1,5 +1,4 @@
 # SimAcc-Portal
-# SimAcc-Portal
 JobSim Enterprise Proposes Leveraging SimAcc for Council's Online Municipal Payment System
 Harare, Zimbabwe - JobSim Enterprise, a provider of accounting systems to local councils, is proposing a solution to a common frustration for residents: the need to queue in long lines to check outstanding balances and pay municipal arrears. Their idea is to develop an online portal that integrates with their existing council accounting system, SimAcc, to allow residents to conveniently access their account information and make payments from home.
 JobSim Enterprise's SimAcc system, built on the Progress ABL language, is already a core part of the financial operations for some local councils. The proposal is to extend the functionality of SimAcc to the public, creating a resident-facing portal.
